@@ -1,0 +1,24 @@
+# Node modules - folder yang berisi semua dependensi proyek yang diinstal
+node_modules/
+
+# File lock yang dihasilkan oleh npm, bisa di-generate ulang dengan npm install
+package-lock.json
+
+# File log yang dihasilkan oleh server atau aplikasi
+*.log
+
+# Direktori atau file sementara dari editor atau IDE
+.vscode/
+.idea/
+
+# File konfigurasi OS seperti thumbnail atau file yang tidak terkait langsung dengan proyek
+.DS_Store
+Thumbs.db
+
+# File env
+.env
+
+# File build atau distribusi
+/dist
+/build
+.vercel
