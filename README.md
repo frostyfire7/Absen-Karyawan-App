@@ -44,3 +44,11 @@ Semua endpoint menggunakan Base URL: ```http://localhost/8000```
 | PUT | /absen/:id | Mengubah data absensi berdasarkan id |
 | DELETE | /absen/:id | Menghapus data absensi berdasarkan id |
 
+<br>
+
+## Tech Stack
+
+| Frontend | Backend | Database |
+| --- | --- | --- |
+| [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=light)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev) |
+
